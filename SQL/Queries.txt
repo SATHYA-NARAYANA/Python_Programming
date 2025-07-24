@@ -1,0 +1,8 @@
+How to insert multiple data into SQL without using insert multiple time ?
+
+insert into table TABLE_NAME values('&Column_name1', &column_name2,'&column_name3');
+
+--> Where &Column_name1 is a Varchar or Char data type 
+--> Where &Column_name2 is a number data type
+
+
