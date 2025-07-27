@@ -4,7 +4,13 @@
 # Intiger data type
 
 x = 10
+
+# Float data type
 y = 20.0
+
+# Complex data type
+# A complex number is represented as a + bj, where a is the real part and b is the imaginary part.
+# For example, 1 + 90j is a complex number where 1 is the real part and 90 is the imaginary part.
 z = 1 +90j
 
 print("Intiger data type:", type(x))
