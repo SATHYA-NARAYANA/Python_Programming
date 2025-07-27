@@ -31,3 +31,35 @@ print(type(example_tuple))
 example_tuple2 = ("Sathya", "Ansible", "Python", 1, 2, 3)
 print(type(example_tuple2))                 
 
+# Dictionary Data Structure: Key-value pairs to store data in a structured way
+example_dict = {
+    "name": "Sathya",
+    "age": 30,
+    "skills": ["Ansible", "Python"]
+}       
+
+print(type(example_dict))  
+
+example_dict2 = {
+    "name": "Sathya", 
+    "course": "Ansible",
+    "language": "Python",
+    "mentoring": True,
+    'learning': True
+}
+
+print(dict(example_dict2))  # This will convert the dictionary to a dict object
+print(type(example_dict2))  # This will show the type of the dictionary 
+
+# Set Data Structure: Unordered collection of unique elements
+example_set = {1, 2, 3, 4, 5}               
+print(type(example_set))
+
+example_set2 = {"Sathya", "Ansible", "Python"}
+print(type(example_set2))  
+print(set(example_set2))  # This will remove duplicates and show unique elements  
+
+
+example_set3 = {1, 2, 3, 4, 5, "Sathya", "Ansible", "Python",1,2,3,4,5, "Sathya", "Ansible", "Python",2,3,4,5, "Sathya", "Ansible", "Python"}
+print(type(example_set3))
+print(set(example_set3))  # This will remove duplicates and show unique elements
