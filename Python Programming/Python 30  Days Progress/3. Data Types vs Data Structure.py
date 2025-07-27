@@ -1,1 +1,1 @@
-Print ("What other data types are there in Python?")
+print ("What other data types are there in Python ?")
