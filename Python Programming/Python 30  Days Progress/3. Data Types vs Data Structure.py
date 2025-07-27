@@ -1,0 +1,1 @@
+Print ("What other data types are there in Python?")
