@@ -1,5 +1,5 @@
-x = True - True + False
-y = x + 1
-print(x + y)
-print(x * y)
-print(x - y)
+while = True*False+True+1
+
+print(x)
+
+ 
