@@ -19,3 +19,15 @@ print(type(z))
 example = [1,2,3,4,5]
 
 print(type(example))
+
+example2 = ["Sathya", "Ansible", "Python", 1, 2, 3]
+print(type(example2))
+
+# Tuple Data Structure: Similar to List, but it is immutable (cannot be changed after creation)
+
+example_tuple = (1, 2, 3, 4, 5)
+print(type(example_tuple))      
+
+example_tuple2 = ("Sathya", "Ansible", "Python", 1, 2, 3)
+print(type(example_tuple2))                 
+
