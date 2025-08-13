@@ -1,0 +1,27 @@
+import os
+import getpass
+import subprocess
+import time
+
+password = getpass.getpass("Please enter youy password")
+pwd = "Sathya"
+
+if password != "Sathya":
+    #os.system("tput setaf 6")
+    #print("\n\n\t\tSorry you are not authorized to enter into this website....")
+    #os.system("tput setaf 1")
+    #print("\n\n\t\tSorry you are not authorized to enter into this website....")
+    #os.system("tput setaf 2")
+    print("\n\n\t\tSorry you are not authorized to enter into this website....")
+    os.system("tput setaf 3")
+    print("\n\n\t\tSorry you are not authorized to enter into this website....")
+    os.system("tput setaf 4")
+    print("\n\n\t\tSorry you are not authorized to enter into this website....")
+    os.system("tput setaf 5")
+    print("\n\n\t\tSorry you are not authorized to enter into this website....")
+    #os.system("clear")
+    exit()
+print("Welcome to Linux World ... You are Authorized to enter this website...")
+os.system("tput setaf 7")# Try 7, 8, or 250 for different shades
+print(os.system("tput setaf 5 Welcome"))
+print(os.system("tput sgr0"))

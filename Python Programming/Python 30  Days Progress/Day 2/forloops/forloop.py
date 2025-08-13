@@ -3,9 +3,6 @@ veg = ['apple', 'mango', 'Grapes', 'Onion']
 
 item = input("Enter an item:\n")
 
-for item in non:
-    item.non in non
-
 if item in non:
     print(f"{item} is a non-veg item.")
 elif item in veg:

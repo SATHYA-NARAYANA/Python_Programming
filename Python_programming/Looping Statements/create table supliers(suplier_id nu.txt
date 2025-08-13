@@ -1,0 +1,5 @@
+create table supliers(suplier_id number(10),suplier_name varchar2(10),contact number(10),primary key (suplier_id,suplier_name));
+
+
+
+ create table products(product_id number(10),suplier_id number(5),suplier_name varchar2(10),foreign key (suplier_id,suplier_name) references supliers(suplier_id,suplier_name));

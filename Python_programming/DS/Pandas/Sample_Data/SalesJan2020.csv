@@ -1,0 +1,999 @@
+Product,Price,Payment_Type,Name,City,State,Country
+TV,1200,Mastercard,carolina,Basildon,England,United Kingdom
+TV,1200,Visa,Betina,Parkville                   ,MO,United States
+TV,1200,Mastercard,Federica e Andrea,Astoria                     ,OR,United States
+TV,1200,Visa,Gouya,Echuca,Victoria,Australia
+Laptop,3600,Visa,Gerd W ,Cahaba Heights              ,AL,United States
+TV,1200,Visa,LAURENCE,Mickleton                   ,NJ,United States
+TV,1200,Mastercard,Fleur,Peoria                      ,IL,United States
+TV,1200,Mastercard,adam,Martin                      ,TN,United States
+TV,1200,Mastercard,Renee Elisabeth,Tel Aviv,Tel Aviv,Israel
+TV,1200,Visa,Aidan,Chatou,Ile-de-France,France
+TV,1200,Diners,Stacy,New York                    ,NY,United States
+TV,1200,Amex,Heidi,Eindhoven,Noord-Brabant,Netherlands
+TV,1200,Mastercard,Sean ,Shavano Park                ,TX,United States
+TV,1200,Visa,Georgia,Eagle                       ,ID,United States
+TV,1200,Visa,Richard,Riverside                   ,NJ,United States
+TV,1200,Diners,Leanne,Julianstown,Meath,Ireland
+TV,1200,Visa,Janet,Ottawa,Ontario,Canada
+TV,1200,Diners,barbara,Hyderabad,Andhra Pradesh,India
+Laptop,3600,Visa,Sabine,London,England,United Kingdom
+TV,1200,Diners,Hani,Salt Lake City              ,UT,United States
+TV,1200,Visa,Jeremy,Manchester,England,United Kingdom
+TV,1200,Diners,Janis,Ballynora,Cork,Ireland
+TV,1200,Mastercard,Nicola,Roodepoort,Gauteng,South Africa
+TV,1200,Visa,asuman,Chula Vista                 ,CA,United States
+TV,1200,Mastercard,Lena,Kuopio,Ita-Suomen Laani,Finland
+TV,1200,Visa,Lisa,Sugar Land                  ,TX,United States
+TV,1200,Diners,Bryan Kerrene,New York                    ,NY,United States
+TV,1200,Visa,chris,London,England,United Kingdom
+TV,1200,Visa,Maxine,Morton                      ,IL,United States
+TV,1200,Visa,Family,Los Gatos                   ,CA,United States
+TV,1200,Mastercard,Katherine,New York                    ,NY,United States
+TV,1200,Mastercard,Linda,Miami                       ,FL,United States
+TV,1200,Mastercard,SYLVIA,Vesenaz,Geneve,Switzerland
+TV,1200,Diners,Sheila,Brooklyn                    ,NY,United States
+TV,1200,Mastercard,Stephanie,Badhoevedorp,Noord-Holland,Netherlands
+TV,1200,Amex,Kelly,Reston                      ,VA,United States
+Laptop,3600,Visa,James,Burpengary,Queensland,Australia
+TV,1200,Visa,jennifer,Phoenix                     ,AZ,United States
+TV,1200,Mastercard,Anneli,Houston                     ,TX,United States
+Laptop,3600,Amex,Ritz,Pittsfield                  ,VT,United States
+Laptop,3600,Amex,Sylvia,Pittsfield                  ,VT,United States
+TV,1200,Mastercard,Marie,Ball Ground                 ,GA,United States
+TV,1200,Visa,Mehmet Fatih,Helsingor,Frederiksborg,Denmark
+Laptop,3600,Visa,Anabela,Flossmoor                   ,IL,United States
+TV,1200,Amex,Nicole,Houston                     ,TX,United States
+Laptop,3600,Visa,Christiane ,Delray Beach                ,FL,United States
+TV,1200,Mastercard,Sari,Newbury,England,United Kingdom
+TV,1200,Mastercard,simone,Kobenhavn,Kobenhavn,Denmark
+TV,1200,Amex,Vanessa,Sandy Springs               ,GA,United States
+TV,1200,Diners,Anupam,Kinsaley,Dublin,Ireland
+TV,1200,Visa,Karina,Fort Lauderdale             ,FL,United States
+TV,1200,Mastercard,Frank,Melbourne,Victoria,Australia
+TV,1200,Visa,Angela,Ankeny                      ,IA,United States
+TV,1200,Visa,Darren,Pittsboro                   ,NC,United States
+TV,1200,Mastercard,Nikki,New Rochelle                ,NY,United States
+TV,1200,Visa,chris,Gold Coast,Queensland,Australia
+TV,1200,Visa,Stephanie,Brussels,Brussels (Bruxelles),Belgium
+TV,1200,Visa,Anushka,Maple Ridge District Municipality,British Columbia,Canada
+TV,1200,Mastercard,June ,Beachwood                   ,OH,United States
+Laptop,3600,Diners,Baybars,Prince Albert,Saskatchewan,Canada
+TV,1200,Mastercard,Bonnie,Saltsjobaden,Stockholm,Sweden
+TV,1200,Visa,Cindy ,Kemble,England,United Kingdom
+TV,1200,Mastercard,chrissy,W Lebanon                   ,NH,United States
+TV,1200,Mastercard,Tamar,Headley,England,United Kingdom
+Laptop,3600,Mastercard,Deirdre,Lausanne,Vaud,Switzerland
+TV,1200,Mastercard,Bernadett,Southampton,England,United Kingdom
+TV,1200,Visa,Dottie,Woodsboro                   ,MD,United States
+TV,1200,Visa,Stefan,Stavanger,Rogaland,Norway
+TV,1200,Visa,Gina,Red Deer,Alberta,Canada
+TV,1200,Diners,Lynne,Memphis                     ,TN,United States
+TV,1200,Mastercard,Tammy,Morges,Vaud,Switzerland
+TV,1200,Visa,Kim,Calgary,Alberta,Canada
+TV,1200,Visa,Bruce,Belleville,Ontario,Canada
+TV,1200,Visa,Rosa Maria,Cincinnati                  ,OH,United States
+TV,1200,Visa,Lydia,Comox,British Columbia,Canada
+TV,1200,Visa,Eric,Gasperich,Luxembourg,Luxembourg
+TV,1200,Mastercard,AnaPaula,Helens Bay,Northern Ireland,United Kingdom
+TV,1200,Visa,Robin,Milan,Lombardy,Italy
+TV,1200,Visa,Gitte,Staten Island               ,NY,United States
+TV,1200,Visa,Dr. Claudia,Oslo,Oslo,Norway
+TV,1200,Visa,Crystal,Farmington,Michigan,United States
+TV,1200,Diners,Delphine,Santa Monica                ,CA,United States
+TV,1200,Visa,nathalie,Calgary,Alberta,Canada
+TV,1200,Mastercard,Lindi,Vancouver,British Columbia,Canada
+Laptop,3600,Mastercard,Valda,Irvine                      ,CA,United States
+Laptop,3600,Mastercard,Marcia,Telgte,Nordrhein-Westfalen,Germany
+TV,1200,Mastercard,Kevin,Cheltenham,England,United Kingdom
+TV,1200,Visa,Clare,Keller                      ,VA,United States
+TV,1200,Visa,Alice,Nakskov,Storstrom,Denmark
+TV,1200,Mastercard,ZENA,Honolulu                    ,HI,United States
+TV,1200,Visa,Andrea,Bubuieci,Chisinau,Moldova
+TV,1200,Visa,Rennae,Amelia Island               ,FL,United States
+TV,1200,Visa,Gerhard,Alliston,Ontario,Canada
+TV,1200,Amex,Megan,La Alberca,Murcia,Spain
+TV,1200,Mastercard,Danielle,Rathgar,Dublin,Ireland
+TV,1200,Mastercard,Tod,Coral Gables                ,FL,United States
+TV,1200,Visa,Janaina,Miami                       ,FL,United States
+TV,1200,Visa,Kofi,Vancouver,British Columbia,Canada
+TV,1200,Visa,Jennifer,Jumeira,Dubayy,United Arab Emirates
+TV,1200,Visa,Jolene ,Englewood                   ,CO,United States
+TV,1200,Mastercard,anne,Bournemouth,England,United Kingdom
+TV,1200,Mastercard,Alexis,Genoa                       ,IL,United States
+TV,1200,Visa,Dez,Al 'Adliyah,Al Manamah,Bahrain
+TV,1200,Visa,Stephanie,Rouen,Upper Normandy,France
+TV,1200,Visa,Melissa ,Parkland                    ,FL,United States
+TV,1200,Amex,CLARE,San Francisco               ,CA,United States
+TV,1200,Mastercard,catherine,Keller                      ,VA,United States
+TV,1200,Visa,Veronique ,Tsawwassen,British Columbia,Canada
+TV,1200,Mastercard,Bruce and Camille,Clinton                     ,NJ,United States
+TV,1200,Mastercard,Ellen,Owensboro                   ,KY,United States
+TV,1200,Visa,Amy,Lakewood Village            ,TX,United States
+TV,1200,Visa,Anna,Okotoks,Alberta,Canada
+TV,1200,Mastercard,Regina,Glimmen,Groningen,Netherlands
+TV,1200,Visa,Heidi,Calgary,Alberta,Canada
+TV,1200,Visa,Jessica,Kanata,Ontario,Canada
+TV,1200,Diners,Petra,Bergen,Nordrhein-Westfalen,Germany
+TV,1200,Visa,Brian,College Park                ,MD,United States
+TV,1200,Visa,Kenny,Kailua Kona                 ,HI,United States
+TV,1200,Amex,ayse,Redondo Beach               ,CA,United States
+TV,1200,Amex,Maria and Timothy,Fountain Hls                ,AZ,United States
+TV,1200,Visa,IMAN,Brisbane,Queensland,Australia
+TV,2100,Mastercard,Gerald,Mahopac                     ,NY,United States
+TV,1200,Mastercard,Annelies,Ile-Perrot,Quebec,Canada
+TV,1200,Amex,Jocelyn,Bruxelles,Brussels (Bruxelles),Belgium
+TV,1200,Visa,Kara,Chicago                     ,IL,United States
+TV,1200,Visa,Orsi,Rayford                     ,TX,United States
+TV,1200,Visa,Ben,Escondido                   ,CA,United States
+TV,1200,Visa,Sam,Tesvikiye,Istanbul,Turkey
+TV,1200,Visa,Filip and Teresa,Centurion,Gauteng,South Africa
+TV,1200,Visa,Grace ,York,England,United Kingdom
+TV,1200,Visa,Chelsey ,Ashburn                     ,VA,United States
+TV,1200,Amex,Charis,Los Angeles                 ,CA,United States
+TV,1200,Visa,Marlene,Edgewood                    ,WA,United States
+TV,1200,Visa,Fie,New York                    ,NY,United States
+TV,1200,Diners,Nicole ,Basingstoke,England,United Kingdom
+TV,1200,Diners,Linda,Den Haag,Zuid-Holland,Netherlands
+TV,1200,Visa,Janet,Marietta                    ,GA,United States
+TV,1200,Mastercard,Jamie,Houston                     ,TX,United States
+TV,1200,Visa,Chad,West Orange                 ,NJ,United States
+TV,1200,Mastercard,sunny,Amsterdam,Noord-Holland,Netherlands
+TV,1200,Visa,Anna,Downey                      ,CA,United States
+TV,1200,Diners,Roger,Urlingford,Kilkenny,Ireland
+TV,1200,Mastercard,Si,Holte,Kobenhavn,Denmark
+TV,1200,Visa,Sherri,Freienbach,Schwyz,Switzerland
+TV,1200,Mastercard,Katherine,Hofheim am Taunus,Hessen,Germany
+TV,1200,Mastercard,Clare,Lafayette                   ,CA,United States
+TV,1200,Amex,Campbell,Mushrif,,Kuwait
+TV,1200,Visa,Ruth,Nashville                   ,AR,United States
+Laptop,3600,Visa,Cheryl,New Malden,England,United Kingdom
+TV,1200,Visa,Doug,Bishop Auckland,England,United Kingdom
+Mobile,7500,Mastercard,Julianne,Navan,Meath,Ireland
+TV,1200,Visa,Shailesh,Joppa,MD,United States
+TV,1200,Visa,Conrad,Joppa,MD,United States
+TV,1200,Diners,Alison,Hampton                     ,NJ,United States
+TV,1200,Mastercard,Tracy,Louisville                  ,KY,United States
+TV,1200,Visa,Kate,Broadlands                  ,VA,United States
+TV,1200,Diners,Sarka,Yellowknife,Northwest Territories,Canada
+Laptop,3600,Visa,Therese,Los Angeles                 ,CA,United States
+Laptop,3600,Visa,Abdul-L,New York                    ,NY,United States
+Laptop,3600,Visa,heidi,Saint Paul                  ,MN,United States
+Laptop,3600,Visa,jiyoung,New York                    ,NY,United States
+TV,1200,Visa,Klara,Spring Lake Park            ,MN,United States
+TV,1200,Mastercard,Andrew,Winnipeg,Manitoba,Canada
+TV,1200,Visa,Vicki and Bill,Seattle                     ,WA,United States
+TV,1200,Mastercard,David,Deptford                    ,NJ,United States
+TV,1200,Mastercard,Antonella,Amsterdam,Noord-Holland,Netherlands
+TV,1200,Visa,David,Alpharetta                  ,GA,United States
+TV,1200,Visa,Greg,Washington                  ,DC,United States
+TV,1200,Visa,Jannik ,Holmenkollen,Oslo,Norway
+TV,1200,Visa,Sylvia,Zekeriyakoy,Istanbul,Turkey
+TV,1200,Amex,Bernadette,Washington                  ,DC,United States
+TV,1200,Diners,Denise,Montreal,Quebec,Canada
+Laptop,3600,Visa,Caren,Braunschweig,Lower Saxony,Germany
+TV,1200,Visa,luciana,Athens                      ,GA,United States
+TV,1200,Diners,Maja,Hoschton                    ,GA,United States
+Laptop,3600,Visa,Kristen,Binningen,Basel-Country,Switzerland
+TV,1200,Visa,Kirstie,Royal Oak                   ,MI,United States
+TV,1200,Visa,Scott ,Royal Oak                   ,MI,United States
+TV,1200,Mastercard,Jammie,Belmont                     ,MA,United States
+TV,1200,Mastercard,Frank,Old Greenwich               ,CT,United States
+TV,1200,Mastercard,scott,Coconut Grove               ,FL,United States
+TV,1200,Visa,Jiri,Vienna                      ,VA,United States
+Laptop,3600,Visa,Bev,San Ramon                   ,CA,United States
+TV,1200,Visa,Dave and Amy,Norfolk                     ,VA,United States
+TV,1200,Mastercard,Rebecca,Norfolk                     ,VA,United States
+TV,1200,Visa,Melissa,Aberdeen,Scotland,United Kingdom
+TV,1200,Amex,jeremy,Charlestown,New South Wales,Australia
+TV,1200,Visa,Randy,Wigan,England,United Kingdom
+TV,1200,Visa,Djeiny,Rockville                   ,MD,United States
+Mobile ,7500,Mastercard,Amanda,Shreveport                  ,LA,United States
+TV,1200,Mastercard,Andrea ,Shreveport                  ,LA,United States
+TV,1200,Amex,Joanna,Little Silver               ,NJ,United States
+TV,1200,Visa,Jessica,Abbey Town,England,United Kingdom
+TV,1200,Amex,alison,Mid City West               ,PA,United States
+TV,1200,Visa,malin,Atlanta,Georgia,United States
+Laptop,3600,Visa,Tiffany ,Paris,Ile-de-France,France
+TV,1200,Visa,Genevieve,Milton Keynes,England,United Kingdom
+TV,1200,Mastercard,Saraya,Dresden,Saxony,Germany
+TV,1200,Mastercard,Anastasia,NYC                         ,NY,United States
+TV,1200,Visa,Elizabeth,The Grange,Queensland,Australia
+TV,1200,Visa,Nicole,Brookline                   ,MA,United States
+TV,1200,Visa,Jeffrey,Montreal-Nord,Quebec,Canada
+TV,1200,Mastercard,Blanca Gabriela ,Irving                      ,TX,United States
+TV,1200,Amex,Elisa,Ottawa Hills                ,OH,United States
+Laptop,3600,Mastercard,Patricia ,Portola Valley              ,CA,United States
+TV,1200,Visa,Bob,Sydney,New South Wales,Australia
+Mobile,7500,Visa,Kristyn,Kearns                      ,UT,United States
+TV,1200,Visa,Elizabeth,Wollongong,New South Wales,Australia
+TV,1200,Amex,Cathy,Brooklyn                    ,NY,United States
+Laptop,3600,Amex,Kaylee,Penngrove                   ,CA,United States
+TV,1200,Visa,suzanne,Lemont                      ,IL,United States
+TV,1200,Mastercard,Cassandra,San Carlos                  ,CA,United States
+TV,1200,Mastercard,Jennifer,Chicago                     ,IL,United States
+TV,1200,Visa,nicole,Oslo,Oslo,Norway
+TV,1200,Visa,Sean,Wantagh,NY,United States
+TV,1200,Mastercard,Morgan,Coomera,Queensland,Australia
+TV,1200,Diners,Harriet,Fort Oglethorpe             ,GA,United States
+TV,1200,Mastercard,Janine,Corbin City                 ,NJ,United States
+TV,1200,Mastercard,Debora,Lakeside                    ,CA,United States
+TV,1200,Visa,Vishpala,Margate                     ,FL,United States
+TV,1200,Amex,Emer,South Palm Beach            ,FL,United States
+TV,1200,Diners,john,New York                    ,NY,United States
+TV,1200,Mastercard,lailani,Anchorage                   ,AK,United States
+Laptop,3600,Visa,STEPHANIE,Mona Vale,New South Wales,Australia
+TV,1200,Visa,Tricia,Castricum,Noord-Holland,Netherlands
+TV,1200,Visa,Celina,North Brunswick             ,NJ,United States
+Laptop,3600,Visa,Rosemary,Jacksonville                ,FL,United States
+TV,1200,Visa,Patrick,Baytown                     ,TX,United States
+TV,1200,Mastercard,Jacob,Winter Haven                ,FL,United States
+TV,1200,Visa,elisabeth,Gonzaga Univ                ,WA,United States
+Laptop,3600,Visa,ayelet,Malmo,Skane,Sweden
+Laptop,3600,Visa,seemab,San Pawl tat-Targa, ,Malta
+Laptop,3600,Amex,Lucien,Wiesbaden,Hessen,Germany
+TV,1200,Visa,Kevin ,London,England,United Kingdom
+TV,1200,Mastercard,Liban,Stavanger,Rogaland,Norway
+Laptop,3600,Diners,Lesley,Cork,Cork,Ireland
+TV,1200,Visa,Marie,Winchester                  ,MA,United States
+TV,1200,Visa,Charlene,Calgary,Alberta,Canada
+TV,1200,Visa,Orit,Dallas                      ,TX,United States
+TV,1200,Visa,Alan,Malahide,Dublin,Ireland
+Laptop,3600,Mastercard,Anja Langer,Saint Paul                  ,MN,United States
+TV,1200,Visa,Lina,Edinburgh,Scotland,United Kingdom
+TV,1200,Amex,Larry,Naarden,Noord-Holland,Netherlands
+TV,1200,Visa,Jessica,Oldenburg,Lower Saxony,Germany
+Mobile,7500,Visa,Marion,Rennes,Brittany,France
+TV,1200,Amex,Eric,Ely                         ,NV,United States
+TV,1200,Amex,Miriane,Norfolk                     ,VA,United States
+TV,1200,Visa,Jeff,Houston                     ,TX,United States
+TV,1200,Diners,christina,Chepel,Budapest,Hungary
+TV,1200,Mastercard,Shannon,Buffalo Grove               ,IL,United States
+TV,1200,Mastercard,Angela,Newburgh,Scotland,United Kingdom
+TV,1200,Visa,Angela,Vienna,Vienna,Austria
+TV,1200,Mastercard,Elaine,Vicenza,Veneto,Italy
+TV,1200,Visa,Helen,Mechanics Grove             ,PA,United States
+Laptop,3600,Amex,Fatisha,Miami                       ,FL,United States
+TV,1200,Visa,Nina,Silver Spring               ,MD,United States
+Laptop,3600,Visa,Barbara,Kirriemuir,Scotland,United Kingdom
+TV,1200,Diners,Karen,Roquefort,Provence-Alpes-Cote d'Azur,France
+TV,1200,Visa,Georgina,Portland                    ,OR,United States
+TV,1200,Diners,Kellie,Staten Island               ,NY,United States
+TV,1200,Mastercard,Terry,San Antonio                 ,TX,United States
+Laptop,3600,Visa,LAURIE,Guildford,England,United Kingdom
+TV,1200,Visa,frauke,Horten,Vestfold,Norway
+Laptop,3600,Mastercard,Cindy,Englewood                   ,CO,United States
+TV,1200,Visa,Simone,San Antonio                 ,TX,United States
+TV,1200,Visa,Hilde ,Princeville                 ,HI,United States
+TV,1200,Visa,Leah,Castleknock,Dublin,Ireland
+TV,1200,Visa,Laine,Castleknock,Dublin,Ireland
+TV,1200,Visa,kirsten,Bishops Stortford,England,United Kingdom
+Laptop,3600,Mastercard,Elizabeth,Den Haag,Zuid-Holland,Netherlands
+TV,1200,Mastercard,Anna,Lafayette                   ,CA,United States
+TV,1200,Diners,Babs,Blackpool,England,United Kingdom
+TV,1200,Mastercard,Gerlinde,Hellerup,Kobenhavn,Denmark
+TV,1200,Mastercard,Hollyn,London,England,United Kingdom
+TV,1200,Visa,leiser,N Java                      ,NY,United States
+Laptop,3600,Mastercard,Irene,Munich,Bayern,Germany
+TV,1200,Amex,Lisa,Brulon,Pays de la Loire,France
+TV,1200,Visa,Ann,Austin                      ,TX,United States
+TV,1200,Mastercard,Nichol Jane,Midland Park                ,NJ,United States
+TV,1200,Amex,Beatriz,Centerport                  ,NY,United States
+TV,1200,Mastercard,corina,Neustift am Walde,Vienna,Austria
+TV,1200,Mastercard,manon,Neustift am Walde,Vienna,Austria
+TV,1200,Diners,Isabelle,Shorewood                   ,MN,United States
+TV,1200,Visa,Lynne,Southlake                   ,TX,United States
+TV,1200,Mastercard,Doug,Huntington                  ,NY,United States
+TV,1200,Mastercard,AMY,The Woodlands               ,TX,United States
+TV,1200,Visa,Kim,Kelowna,British Columbia,Canada
+TV,1200,Mastercard,HELIDA,White House                 ,TN,United States
+TV,1200,Visa,Cameron,Rungsted,Frederiksborg,Denmark
+TV,1200,Mastercard,Wendy,Lake Mahopac                ,NY,United States
+Laptop,3600,Mastercard,Jane,Biot,Provence-Alpes-Cote d'Azur,France
+Laptop,3600,Visa,shelby,Plantation                  ,FL,United States
+TV,1200,Mastercard,Tara,Killiney,Dublin,Ireland
+TV,1200,Amex,James,Guer,Brittany,France
+TV,800,Amex,Heloise ,Arlington                   ,VA,United States
+TV,1200,Mastercard,Gabriel,Three Hills,Alberta,Canada
+TV,1200,Visa,Jodie ,Great Falls,Virginia,United States
+TV,1200,Amex,Jeremy,London,England,United Kingdom
+TV,1200,Visa,Helga,Clontarf,Dublin,Ireland
+TV,1200,Visa,Eleanor,Vancouver,British Columbia,Canada
+TV,1200,Diners,Miss,London,England,United Kingdom
+TV,1200,Visa,Marie,Dickerson                   ,MD,United States
+TV,1200,Mastercard,Lisa,Princeton                   ,NJ,United States
+TV,1200,Mastercard,Priska,Calgary,Alberta,Canada
+TV,1200,Visa,Katrine,North Tustin                ,CA,United States
+TV,1200,Amex,Lisa,Gurgaon,Haryana,India
+TV,1200,Visa,Sabrina,Rambouillet,Ile-de-France,France
+TV,1200,Visa,prof,Gladwyne                    ,PA,United States
+TV,1200,Mastercard,KeithMichelle,Houston                     ,TX,United States
+TV,1200,Mastercard,Kim,London,England,United Kingdom
+TV,1200,Visa,anissa,Slough,England,United Kingdom
+TV,1200,Mastercard,john,Glan-Munchweiler,Rhineland-Palatinate,Germany
+Laptop,3600,Visa,Miye,Downingtown                 ,PA,United States
+TV,1200,Diners,Heidi,MT Pleasant                 ,TX,United States
+TV,1200,Mastercard,T,Veigy-Foncenex,Rhone-Alpes,France
+Laptop,3600,Visa,Daniele,Katy                        ,TX,United States
+TV,1200,Diners,luisa,Gorey, ,Jersey
+TV,1200,Visa,Nadine,Belgrade                    ,MT,United States
+TV,1200,Mastercard,Tina,Calgary,Alberta,Canada
+TV,1200,Diners,Damali,Toronto,Ontario,Canada
+TV,1200,Visa,Katherine,Corrales                    ,NM,United States
+TV,1200,Visa,Kathryn,Cork,Cork,Ireland
+TV,1200,Diners,Veronique,Tenafly                     ,NJ,United States
+TV,1200,Visa,Erica,Leesburg                    ,VA,United States
+TV,1200,Visa,L,Alcona,Ontario,Canada
+TV,1200,Mastercard,Diana,Kuala Lumpur,Kuala Lumpur,Malaysia
+TV,1200,Mastercard,Emma,Sydney,New South Wales,Australia
+TV,1200,Visa,Marina,Nerang,Queensland,Australia
+TV,1200,Mastercard,Natalie ,Bryceville                  ,FL,United States
+TV,1200,Diners,Brenda,Saffron Walden,England,United Kingdom
+TV,1200,Diners,Nita,Sutton,Dublin,Ireland
+TV,1200,Mastercard,Marian,Durban,KwaZulu-Natal,South Africa
+TV,1200,Visa,Kevin,Berkeswell,England,United Kingdom
+TV,1200,Visa,cari,Dryden                      ,VA,United States
+TV,1200,Visa,Cassandra,Santry,Dublin,Ireland
+TV,1200,Amex,Christof and Heidi,Barcelona,Catalonia,Spain
+TV,1200,Visa,Ina,Fayetteville                ,NC,United States
+TV,1200,Visa,Lisa,Anse Comeau,Quebec,Canada
+TV,1200,Visa,Camille and Carmen,Thorlakshofn, ,Iceland
+Laptop,3600,Visa,Trina,Overland                    ,KS,United States
+TV,1200,Visa,Ginger,King City,Ontario,Canada
+TV,1200,Visa,breon,Leighton Buzzard,England,United Kingdom
+TV,1200,Visa,Marion,Umea,Vasterbotten,Sweden
+TV,1200,Mastercard,Pia ,Sola,Rogaland,Norway
+TV,1200,Visa,Dr. Donald,Stockton-on-Tees,England,United Kingdom
+Laptop,3600,Visa,Jenna and Paul,Senatobia                   ,MS,United States
+TV,1200,Mastercard,Rebecca,Berlin,Berlin,Germany
+TV,1200,Mastercard,Monique,Waldorf                     ,MD,United States
+TV,1200,Diners,lilia ,Brooklyn                    ,NY,United States
+TV,1200,Mastercard,Lainey,Lakeville                   ,MN,United States
+Laptop,3600,Mastercard,Jag,Saint-Cergues,Rhone-Alpes,France
+TV,1200,Mastercard,Charlene ,Vancouver,British Columbia,Canada
+TV,1200,Amex,Fiona,Stamford                    ,CT,United States
+TV,1200,Mastercard,burt,Rathfarnham,Dublin,Ireland
+Laptop,3600,Visa,Maggie,Paris,Ile-de-France,France
+TV,1200,Mastercard,Stanford,Howell                      ,MI,United States
+TV,1200,Amex,ruth,Encinitas                   ,CA,United States
+TV,1200,Visa,Courtney,Atchison                    ,KS,United States
+Laptop,3600,Amex,Courtney,Mililani                    ,HI,United States
+TV,1200,Diners,Anthony,Victor                      ,NY,United States
+TV,1200,Visa,Eleanor,Fairbanks                   ,AK,United States
+TV,1200,Visa,GAIA,Soro,Vestsjalland,Denmark
+TV,1200,Mastercard,Zane,Warlingham,England,United Kingdom
+TV,1200,Mastercard,Beate,Hamburg,Hamburg,Germany
+TV,1200,Amex,BALA,Accokeek                    ,MD,United States
+TV,1200,Visa,Mrs,Sunnyvale                   ,CA,United States
+TV,1200,Diners,Vanessa,Ithaca                      ,NY,United States
+TV,1200,Amex,Amanda,Houston                     ,TX,United States
+TV,1200,Mastercard,alex ,Farmingtn Hls               ,MI,United States
+TV,1200,Mastercard,T,Brooklyn                    ,NY,United States
+TV,1200,Mastercard,Alva and Martin,Great Falls                 ,VA,United States
+TV,1200,Visa,Anett,Gosport,England,United Kingdom
+Laptop,3600,Mastercard,Jacqui,Scottsdale                  ,AZ,United States
+TV,1200,Visa,KERRY,Sunnyvale                   ,CA,United States
+TV,1200,Visa,DeeDee,Songnae-dong,Soul-t'ukpyolsi,South Korea
+Laptop,3600,Mastercard,leanne,Clyde Hill                  ,WA,United States
+TV,1200,Visa,katie,Ruschlikon,Zurich,Switzerland
+TV,1200,Visa,Marina,Minneapolis                 ,MN,United States
+TV,1200,Visa,camilla,Chicago                     ,IL,United States
+TV,1200,Visa,pirunkit,Petworth,England,United Kingdom
+TV,1200,Diners,Kathrin,Abu Dhabi,Abu Zaby,United Arab Emirates
+TV,1200,Mastercard,Kate,Stockholm,Stockholm,Sweden
+TV,1200,Mastercard,Maie,Queen Creek                 ,AZ,United States
+TV,1250,Mastercard,verena,Queen Creek                 ,AZ,United States
+TV,1200,Visa,Marie-Christine,Durham                      ,NC,United States
+TV,1200,Mastercard,Gabriella,Austin                      ,TX,United States
+TV,1200,Mastercard,valerie et nicolas,Glenn Dale                  ,MD,United States
+TV,1200,Visa,Nicole,Aardal,Sogn og Fjordane,Norway
+TV,1200,Visa,Renee,Edinburg                    ,TX,United States
+TV,1200,Mastercard,Nicole,South Melbourne,Victoria,Australia
+TV,1200,Mastercard,Joachim,Fortaleza,Ceara,Brazil
+TV,1200,Visa,Monica ,Weston                      ,CT,United States
+TV,1200,Visa,Nanci,Reading,England,United Kingdom
+TV,1200,Mastercard,Laura,Coconut Grove               ,FL,United States
+TV,1200,Visa,ciara and mike,London,England,United Kingdom
+TV,1200,Visa,Sarah,San Francisco               ,CA,United States
+Laptop,3600,Mastercard,Anne-line,Zug,Zug,Switzerland
+Laptop,3600,Mastercard,Ulrika,Scottsdale                  ,AZ,United States
+TV,1200,Amex,leigh,Potomac Falls               ,VA,United States
+TV,1200,Mastercard,Nuria,Superior                    ,CO,United States
+TV,1200,Mastercard,Tejal,London,England,United Kingdom
+TV,1200,Mastercard,Ignacio,Engleside                   ,VA,United States
+TV,1200,Visa,ZOE,New Plymouth City,Taranaki,New Zealand
+TV,1200,Mastercard,nihan,Roanoke                     ,VA,United States
+TV,1200,Visa,alan,Norcross                    ,GA,United States
+TV,1200,Amex,lydia,Sandy Plains                ,GA,United States
+TV,1200,Visa,Tracey,Saint Catharines,Ontario,Canada
+TV,1200,Visa,Anja,Gainesville                 ,VA,United States
+TV,1200,Diners,Jennifer,Nordstrand,Oslo,Norway
+TV,1200,Visa,Holly,Arlington                   ,MA,United States
+TV,1200,Diners,megan,West Hills                  ,CA,United States
+TV,1200,Mastercard,Tarah,San Jose                    ,CA,United States
+TV,1200,Visa,Gerardo,London,England,United Kingdom
+TV,1200,Visa,Joanne,Oak Park                    ,MI,United States
+TV,1200,Visa,Margaret,Terrell Hills               ,TX,United States
+TV,1200,Visa,Laura,Jumeira,Dubayy,United Arab Emirates
+TV,1200,Visa,Whitney,Falmouth                    ,VA,United States
+TV,1200,Visa,Ravinder,Lurgan,Northern Ireland,United Kingdom
+TV,1200,Visa,Pam,Richmond                    ,TX,United States
+TV,1200,Mastercard,Celina,Den Haag,Zuid-Holland,Netherlands
+TV,1200,Diners,Heather,Ooltewah                    ,TN,United States
+TV,1200,Mastercard,Kathryn,Pacific Beach               ,CA,United States
+TV,1200,Visa,Michele ,Austin                      ,TX,United States
+TV,1200,Visa,Craig,Seattle                     ,WA,United States
+TV,1200,Visa,Kim,Seattle                     ,WA,United States
+TV,1200,Amex,maria,Ottawa,Ontario,Canada
+TV,1200,Visa,Elaine,Vienna                      ,VA,United States
+TV,1200,Visa,Madison,Torbay,Auckland,New Zealand
+TV,1200,Visa,Amanda,Shenfield,England,United Kingdom
+TV,1200,Visa,Krista,Bergen,Hordaland,Norway
+TV,1200,Visa,Sarah,Bolton,England,United Kingdom
+TV,1200,Mastercard,Sarah,Sandymount,Dublin,Ireland
+Laptop,3600,Amex,Pamela,Bellinzona,Ticino,Switzerland
+TV,1200,Visa,Christine,Antwerpen,Antwerpen,Belgium
+Mobile,7500,Mastercard,Diana,Campinas,Sao Paulo,Brazil
+TV,1200,Amex,mary,Nacka,Stockholm,Sweden
+TV,1200,Visa,Helena,Fremont                     ,CA,United States
+TV,1200,Visa,nina,Warwick,Queensland,Australia
+TV,1200,Amex,Mark,Holmdel                     ,NJ,United States
+TV,1200,Visa,alice and rudolf,Baltimore                   ,MD,United States
+TV,1200,Visa,Costanza,Saggart,Dublin,Ireland
+TV,1200,Mastercard,Yoko,Andover                     ,MA,United States
+TV,1200,Mastercard,Barbara,La Crescenta                ,CA,United States
+TV,1200,Mastercard,Kit,Suwanee                     ,GA,United States
+Laptop,3600,Visa,cristina,Seattle                     ,WA,United States
+TV,1200,Amex,linda,Arlington                   ,VA,United States
+TV,1200,Mastercard,Christyna,Calgary,Alberta,Canada
+TV,1200,Visa,Alicja ,Kenmore                     ,WA,United States
+TV,1200,Visa,Rachel,Fresno                      ,CA,United States
+TV,1200,Amex,Rachel,Atascadero                  ,CA,United States
+TV,1200,Visa,Jan,Barcelona,Catalonia,Spain
+TV,1200,Diners,Karin,High Wycombe,England,United Kingdom
+Laptop,3600,Amex,ron ,Tsaritsyno,Moscow City,Russia
+TV,1200,Mastercard,Sharon,Ajax,Ontario,Canada
+TV,1200,Mastercard,Anna,New York                    ,NY,United States
+TV,1200,Mastercard,Laura,Fairfield                   ,IA,United States
+TV,1200,Visa,Yana,North Bay,Ontario,Canada
+TV,1200,Visa,Katherine,Marietta                    ,GA,United States
+TV,1200,Diners,Therese,Clontarf,Dublin,Ireland
+TV,1200,Amex,Francoise ,Danville                    ,PA,United States
+Laptop,3600,Amex,Elizabeth,Okotoks,Alberta,Canada
+TV,1200,Amex,Corinne,Anthem                      ,AZ,United States
+TV,1200,Visa,Ec,Clonmel,Tipperary,Ireland
+TV,1200,Visa,Carmen,Arlington                   ,VA,United States
+Laptop,3600,Amex,Brittany,Orlando                     ,FL,United States
+TV,1200,Mastercard,Sandrine,Walnut Creek                ,CA,United States
+TV,1200,Mastercard,asuncion ,Centennial                  ,CO,United States
+TV,1200,Visa,Sophie,Newtown                     ,CT,United States
+TV,1200,Amex,Henrietta,Vancouver,British Columbia,Canada
+TV,1200,Visa,DD,York,England,United Kingdom
+TV,1200,Visa,Jennifer,Drogheda,Louth,Ireland
+TV,1200,Visa,samuel,Saddle Brook                ,NJ,United States
+TV,1200,Amex,Angelina  Patrick,San Diego                   ,CA,United States
+TV,1200,Visa,Sven,Issaquah                    ,WA,United States
+TV,1200,Visa,Toni,Bolton,England,United Kingdom
+TV,1200,Visa,Patrick,Lexington                   ,MA,United States
+TV,1200,Visa,jason,Altadena                    ,CA,United States
+TV,250,Visa,Tabatha,Altadena                    ,CA,United States
+Laptop,3600,Visa,Aline,Davis                       ,CA,United States
+Laptop,3600,Visa,Debra,Toronto,Ontario,Canada
+TV,1200,Mastercard,Natasha,Pasadena                    ,CA,United States
+TV,1200,Mastercard,Melinda,Buffalo Grove               ,IL,United States
+TV,1200,Visa,Luc1nda,London,England,United Kingdom
+TV,1200,Visa,Kim,Newcastle,Wicklow,Ireland
+TV,1200,Amex,Britlyn ,Norwalk                     ,CT,United States
+TV,1200,Diners,Adam,Besancon,Franche-Comte,France
+TV,1200,Visa,Mimi,Monte-Carlo, ,Monaco
+TV,1200,Visa,Liann,Monaco, ,Monaco
+TV,1200,Mastercard,Sarah,Floyds Knobs                ,IN,United States
+TV,1200,Diners,Naseer,London,England,United Kingdom
+TV,1200,Amex,Caroline,Marietta                    ,GA,United States
+TV,1800,Amex,Karena,Marietta                    ,GA,United States
+TV,1200,Amex,janet,Hon                         ,HI,United States
+Mobile,7500,Visa,Hans,Knoxville                   ,TN,United States
+TV,1200,Visa,Sandra  Thierry  Zoe,Knoxville                   ,TN,United States
+TV,1200,Mastercard,Eleanor,Edinburgh,Scotland,United Kingdom
+TV,1200,Visa,Anna,Paris,Ile-de-France,France
+TV,1200,Visa,Cara ,Humble                      ,TX,United States
+TV,1200,Visa,carolien,Mashpee                     ,MA,United States
+TV,1200,Mastercard,Ana,Hong Kong, ,Hong Kong
+TV,1200,Visa,Patrick,Birmingham                  ,MI,United States
+TV,1200,Visa,Heidi,St Augustine                ,FL,United States
+TV,1200,Visa,Tom,Salt Lake City              ,UT,United States
+TV,1200,Amex,Justine,Seattle                     ,WA,United States
+TV,1200,Visa,isabel,Ruti,Zurich,Switzerland
+Mobile,7500,Visa,scott,Rogers                      ,AR,United States
+TV,1200,Visa,Fatima,Rogers                      ,AR,United States
+TV,1200,Visa,Judy,Dun Laoghaire,Dublin,Ireland
+TV,1200,Visa,Glenn,Perth,Scotland,United Kingdom
+TV,1200,Amex,Family in,London,England,United Kingdom
+TV,1200,Visa,Lauren,Gries,Rhineland-Palatinate,Germany
+Mobile,7500,Visa,Michael,Pietermaritzburg,KwaZulu-Natal,South Africa
+TV,1200,Visa,Jodi,Sutton Valence,England,United Kingdom
+TV,1200,Mastercard,simone,Lyngby,Kobenhavn,Denmark
+TV,1200,Diners,Sonja,Alpine                      ,NJ,United States
+TV,1200,Mastercard,Shane,Zurich,Zurich,Switzerland
+Laptop,3600,Amex,Ruth,Saskatoon,Saskatchewan,Canada
+TV,1200,Mastercard,Cleo,Pacific Palisades           ,CA,United States
+TV,1200,Diners,Benoit,Fort Saint James,British Columbia,Canada
+TV,1200,Amex,Claire,Versoix,Geneve,Switzerland
+TV,1200,Visa,Claire,Trumansburg                 ,NY,United States
+TV,1200,Visa,Lindsey,Kennett Square              ,PA,United States
+Laptop,3600,Visa,Nicola,San Jose                    ,CA,United States
+Laptop,3600,Mastercard,PATRICK,Ban Khlong Sip,Krung Thep,Thailand
+TV,1200,Visa,jennifer,Morro Bay                   ,CA,United States
+TV,1200,Visa,Amy,Parramatta,New South Wales,Australia
+TV,1200,Mastercard,Whitney,Dumbleton,England,United Kingdom
+TV,1200,Visa,Astrid,Altlengbach,Lower Austria,Austria
+TV,1200,Visa,jo,Ballincollig,Cork,Ireland
+TV,1200,Visa,Michelle,Ballincollig,Cork,Ireland
+TV,1200,Mastercard,TG,Zagore,Stara Zagora,Bulgaria
+TV,1200,Mastercard,Emily,Vecmilgravis,Riga,Latvia
+Laptop,3600,Visa,Niki,Trelex,Vaud,Switzerland
+TV,1200,Visa,Sarah,Ornex,Rhone-Alpes,France
+TV,1200,Visa,sherry,Las Vegas                   ,NV,United States
+Laptop,3600,Amex,Laura,San Anselmo                 ,CA,United States
+TV,1200,Mastercard,Carmela,Hannover,Lower Saxony,Germany
+TV,1200,Diners,Matt,N Woodmere                  ,NY,United States
+TV,1200,Visa,Karen,Madrid,Madrid,Spain
+TV,1200,Visa,Joanne,Castlebar,Mayo,Ireland
+TV,1200,Visa,Stephanie,Fairfax                     ,CA,United States
+TV,1200,Visa,Hurst,Chandler                    ,AZ,United States
+TV,1200,Visa,Liza,Dammeron Valley             ,UT,United States
+TV,1200,Mastercard,Michele,Buffalo                     ,NY,United States
+Mobile,7500,Visa,Karin,Olive Branch                ,MS,United States
+TV,1200,Amex,cath,Warwick                     ,NY,United States
+Laptop,3600,Visa,eva,Gisborne,Victoria,Australia
+TV,1200,Amex,Andrea ,San Mateo                   ,CA,United States
+TV,1200,Mastercard,Sabine,Milton Keynes,England,United Kingdom
+TV,1200,Mastercard,Aideen and Jonathan,Kecskemet,Bacs-Kiskun,Hungary
+TV,1200,Visa,George,Nakskov,Storstrom,Denmark
+TV,1200,Visa,Helen,Aloma                       ,FL,United States
+TV,1200,Diners,C,Chandler                    ,AZ,United States
+TV,1200,Visa,chris,Kjobenhavn,Staden Kobenhavn,Denmark
+TV,1200,Visa,maggie,Stockton,England,United Kingdom
+TV,1200,Amex,Mareike,Cumming                     ,GA,United States
+TV,1200,Visa,lamia,Little Compton              ,RI,United States
+TV,1200,Visa,Madhu,Centennial                  ,CO,United States
+TV,13000,Visa,sandhya,Centennial                  ,CO,United States
+TV,1200,Amex,Kimberly,Herndon                     ,VA,United States
+TV,1200,Visa,Tania,Vista                       ,CA,United States
+TV,1200,Visa,andrea,Oostburg                    ,WI,United States
+TV,1200,Mastercard,John,Griffith,New South Wales,Australia
+Laptop,3600,Visa,carol,Ann Arbor                   ,MI,United States
+TV,1200,Visa,Nona,South Jordan                ,UT,United States
+Laptop,3600,Visa,Family,Dubai,Dubayy,United Arab Emirates
+Laptop,3600,Visa,Michelle,Dubai,Dubayy,United Arab Emirates
+Laptop,3600,Visa,Kathryn,Kirriemuir,Scotland,United Kingdom
+TV,1200,Visa,Oswald,Tramore,Waterford,Ireland
+TV,1200,Visa,Elyssa,Gdansk,Pomorskie,Poland
+TV,1200,Visa,michelle,Arklow,Wicklow,Ireland
+TV,1200,Mastercard,Alicia,Lincoln                     ,NE,United States
+TV,1200,Mastercard,JP,Tierp,Uppsala,Sweden
+Laptop,3600,Visa,Geraldine,Brussels,Brussels (Bruxelles),Belgium
+TV,1200,Mastercard,sandra,Burr Oak                    ,IA,United States
+TV,1200,Visa,Olivia,Wheaton                     ,IL,United States
+Laptop,3600,Mastercard,Tom,Killeen                     ,TX,United States
+TV,1200,Visa,Annette ,Manhattan                   ,NY,United States
+TV,1200,Visa,SUSAN,Oxford,England,United Kingdom
+Laptop,3600,Visa,Michael,Paris,Ile-de-France,France
+TV,1200,Visa,ashton,Exeter,England,United Kingdom
+TV,1200,Visa,Scott,Rungsted,Frederiksborg,Denmark
+Laptop,3600,Visa,Pam,London,England,United Kingdom
+TV,1200,Visa,Lisa ,Borja,Bohol,Philippines
+Laptop,3600,Mastercard,Pavel,London,England,United Kingdom
+TV,1200,Visa,Richard,Jamestown                   ,RI,United States
+TV,1200,Visa,Jasinta Jeanne,Owings Mills                ,MD,United States
+TV,1200,Visa,Rachel,Hamilton,Ontario,Canada
+TV,1200,Amex,Cherish ,Anchorage                   ,AK,United States
+TV,1200,Visa,Shona ,Mornington,Meath,Ireland
+TV,1200,Mastercard,Abikay,Fullerton                   ,CA,United States
+TV,1200,Amex,Abikay,Atlanta                     ,GA,United States
+Laptop,3600,Visa,Kendra,Toronto,Ontario,Canada
+TV,1200,Visa,amanda,Liverpool,England,United Kingdom
+Laptop,3600,Amex,Leila,Ponte San Nicolo,Veneto,Italy
+TV,1200,Amex,amanda,Las Vegas                   ,NV,United States
+TV,1200,Visa,Stacy,Rochester Hills             ,MI,United States
+Laptop,3600,Visa,Derrick,North Bay,Ontario,Canada
+TV,1200,Visa,Jacob,Lindfield,New South Wales,Australia
+TV,1200,Mastercard,DOREEN,Madrid,Madrid,Spain
+TV,1200,Diners,eugenia,Wisconsin Rapids            ,WI,United States
+TV,1200,Visa,Karen,Austin                      ,TX,United States
+TV,1200,Visa,Bea,Chicago                     ,IL,United States
+TV,1200,Diners,Hilde Karin,Las Vegas                   ,NV,United States
+TV,1200,Visa,Rima,Mullingar,Westmeath,Ireland
+TV,1200,Visa,Ruangrote,Melbourne,Victoria,Australia
+TV,1200,Amex,pamela,Ayacucho,Buenos Aires,Argentina
+Laptop,3600,Visa,Emillie,Eagan                       ,MN,United States
+TV,1200,Visa,sangeeta,Vossevangen,Hordaland,Norway
+TV,1200,Visa,Anja,Ferney-Voltaire,Rhone-Alpes,France
+TV,1200,Mastercard,Andrew,Sevilla,Andalucia,Spain
+TV,1200,Visa,Bato,Munchengosserstadt,Thuringia,Germany
+TV,1200,Mastercard,Ailsa ,Lindenhurst                 ,NY,United States
+TV,1200,Visa,Sophie,Bloomfield                  ,MI,United States
+TV,1200,Visa,Katrin,Calgary,Alberta,Canada
+Laptop,3600,Mastercard,Kelly ,Vancouver,British Columbia,Canada
+TV,1200,Visa,Tomasz,Klampenborg,Kobenhavn,Denmark
+TV,1200,Visa,Elizabeth,Calne,England,United Kingdom
+Laptop,3600,Amex,Michael,Los Angeles                 ,CA,United States
+Laptop,3600,Visa,Natasha,Milano,Lombardy,Italy
+Laptop,3600,Mastercard,Meredith,Kloten,Zurich,Switzerland
+TV,1200,Mastercard,Nicole,Fayetteville                ,NC,United States
+TV,1200,Visa,Ryan,Simpsonville                ,SC,United States
+TV,1200,Visa,Mary ,Auckland,Auckland,New Zealand
+TV,1200,Diners,Aaron,Reading,England,United Kingdom
+TV,1200,Visa,Bertrand,North Caldwell              ,NJ,United States
+TV,1200,Mastercard,Zoe,Coventry,England,United Kingdom
+TV,1200,Mastercard,Trine Marie,Orillia,Ontario,Canada
+TV,1200,Diners,Kim,Paris,Ile-de-France,France
+TV,1200,Visa,John ,San Jose                    ,CA,United States
+TV,1200,Visa,Rich,Ingelheim-Mitte,Rhineland-Palatinate,Germany
+TV,1200,Diners,Kayla,Leamington Spa,England,United Kingdom
+TV,1200,Visa,Richard and Comfort,Regensdorf,Zurich,Switzerland
+TV,1200,Visa,Eric,Melbourne,Victoria,Australia
+TV,1200,Mastercard,Melissa,Geneve,Geneve,Switzerland
+TV,1200,Diners,Dawn,Vaucluse,New South Wales,Australia
+TV,1200,Mastercard,Tamara,Klosterneuburg,Lower Austria,Austria
+TV,1200,Visa,Ashley,Rancho Cordova              ,CA,United States
+TV,1200,Visa,familly ,Creemore,Ontario,Canada
+TV,1200,Mastercard,Ken,Sidcup,England,United Kingdom
+TV,1200,Visa,Tori,Minneapolis                 ,MN,United States
+Laptop,3600,Mastercard,Hanne,Phoenix                     ,MD,United States
+TV,1200,Amex,Precious,Edmonton,Alberta,Canada
+TV,1200,Visa,Michelle,Lyndoch,South Australia,Australia
+TV,1200,Visa,Paula,Larchmont                   ,NY,United States
+TV,1200,Visa,Stephanie,Saint Charles               ,IL,United States
+TV,1200,Visa,kemp,Brentwood                   ,TN,United States
+Laptop,3600,Diners,Therese,Pensacola                   ,FL,United States
+TV,1200,Diners,Mona,Kelowna,British Columbia,Canada
+TV,1200,Visa,Caroline,Toronto,Ontario,Canada
+TV,1200,Mastercard,Andrea,Brondby Strand,Kobenhavn,Denmark
+TV,1200,Mastercard,Pilar,Florence,Tuscany,Italy
+TV,1200,Visa,Lisa,Perth,Western Australia,Australia
+TV,1200,Amex,A,Saint Petersburg            ,FL,United States
+TV,1200,Mastercard,Yvette,Aubonne,Vaud,Switzerland
+Laptop,3600,Amex,Katie,Gava,Catalonia,Spain
+TV,1200,Visa,Nicole,Mc Lean                     ,VA,United States
+TV,1200,Mastercard,Kelly,Hendersonville              ,TN,United States
+Laptop,3600,Visa,george,Zurich,Zurich,Switzerland
+TV,1200,Mastercard,Samantha,Watford,England,United Kingdom
+TV,1200,Visa,Caterina,Amsterdam,Noord-Holland,Netherlands
+TV,1200,Visa,Kate,Rochester Hills             ,MI,United States
+TV,1200,Mastercard,Tina,Anglesea,Victoria,Australia
+TV,1200,Visa,Emily,Killarney,New Providence,The Bahamas
+TV,1200,Amex,Maricel,Malibu                      ,CA,United States
+TV,1200,Visa,Patricia,Allen                       ,TX,United States
+TV,1200,Mastercard,steve,Evires,Rhone-Alpes,France
+TV,1200,Amex,Darrah,Den Haag,Zuid-Holland,Netherlands
+TV,1200,Visa,Sara,Perth City,Western Australia,Australia
+TV,1200,Visa,Erika,Redruth,England,United Kingdom
+TV,1200,Visa,Audrey,Bruxelles,Brussels (Bruxelles),Belgium
+TV,1200,Visa,Louise,London,England,United Kingdom
+TV,1200,Diners,Karen,Montreal,Quebec,Canada
+TV,1200,Amex,Maki,Miami Beach                 ,FL,United States
+TV,1200,Visa,Peter,Shankill,Dublin,Ireland
+TV,1200,Diners,Ashlee,Oxford,England,United Kingdom
+TV,1200,Mastercard,Anja,New York                    ,NY,United States
+TV,1200,Visa,Ellen Walton ,Melbourne,Victoria,Australia
+TV,1200,Mastercard,Jessica,Woodland Hills              ,CA,United States
+TV,1200,Visa,Wouter and Andrea,Anchorage                   ,AK,United States
+TV,1200,Visa,Pam and Rob,Yorba Linda                 ,CA,United States
+TV,1200,Visa,Elsa,Waiwera,Auckland,New Zealand
+TV,1200,Amex,kathleen kane,Jamaica Plain               ,MA,United States
+TV,1200,Diners,Selene,Oslo,Oslo,Norway
+TV,1200,Visa,Christy,Setagaya,Tokyo,Japan
+Laptop,3600,Visa,Hanna Agla,Donauworth,Bayern,Germany
+TV,1200,Visa,Elyse,Bandon,Cork,Ireland
+TV,1200,Mastercard,Alexis,Ehingen an der Donau,Baden-Wurttemberg,Germany
+TV,1200,Visa,M George,Paris,Ile-de-France,France
+TV,1200,Visa,John,Banbury,England,United Kingdom
+TV,1200,Visa,cheryl,Beverly Hills               ,CA,United States
+TV,1200,Amex,R,Danderyd,Stockholm,Sweden
+Laptop,3600,Visa,Charlene ,Sebastopol                  ,CA,United States
+TV,1200,Visa,Cindy,Glendora                    ,CA,United States
+TV,1200,Visa,Ed,Nacka,Stockholm,Sweden
+TV,1200,Mastercard,Astrid,Canterbury,England,United Kingdom
+TV,1200,Visa,Nicole,Neuchatel,Neuchatel,Switzerland
+TV,1200,Visa,Maria Macarena,Billings                    ,MT,United States
+TV,1200,Visa,Maggie,Libertyville                ,IL,United States
+Laptop,3600,Amex,Christophe,Temecula                    ,CA,United States
+TV,1200,Diners,Manoj,Boise                       ,ID,United States
+TV,1200,Visa,Brenda,Rock Hill                   ,SC,United States
+TV,1200,Mastercard,Lizelle ,Mililani                    ,HI,United States
+Laptop,3600,Visa,Kees en Valesca,Scamander,Tasmania,Australia
+TV,1200,Visa,Cormac,Freeport City,Freeport,The Bahamas
+TV,1200,Visa,jacqueline,North Vancouver,British Columbia,Canada
+TV,1200,Visa,Martin,Ludwigsburg,Baden-Wurttemberg,Germany
+TV,1200,Mastercard,Dean,Rockingham,Western Australia,Australia
+TV,1200,Visa,VERBENA,Basel,Basel-Town,Switzerland
+TV,1200,Mastercard,Angel Marie,Den Haag,Zuid-Holland,Netherlands
+TV,1200,Visa,olla,Westminster                 ,CO,United States
+Laptop,3600,Visa,Eman,Penclawdd,Wales,United Kingdom
+Laptop,3600,Visa,Julia,Ede,Gelderland,Netherlands
+TV,1200,Visa,Sarah,Plan-les-Ouattes,Geneve,Switzerland
+TV,1200,Visa,Esther,Stocksund,Stockholm,Sweden
+TV,1200,Diners,amy,Stuttgart,Baden-Wurttemberg,Germany
+Laptop,3600,Mastercard,Jyoti,Tunbridge Wells,England,United Kingdom
+Laptop,3600,Visa,Keri,Issaquah                    ,WA,United States
+TV,1200,Diners,Paul,Burnaby,British Columbia,Canada
+TV,1200,Mastercard,Attie,Cypress                     ,CA,United States
+TV,1200,Visa,odile,Lititz                      ,PA,United States
+TV,1200,Visa,gail ,London,England,United Kingdom
+TV,1200,Visa,Niki,Chadds Ford                 ,PA,United States
+Laptop,3600,Visa,Danny,St Thomas                   ,VI,United States
+TV,1200,Mastercard,Sarah,Coppell                     ,TX,United States
+TV,1200,Visa,Beckie ,Ladera Ranch                ,CA,United States
+TV,1200,Visa,Maryse,Rathfarnham,Dublin,Ireland
+Laptop,3600,Mastercard,don,Cagliari,Sardinia,Italy
+TV,1200,Visa,Majken,Charlottenlund,Kobenhavn,Denmark
+TV,1200,Amex,Karen and Andrew,Munchen,Bayern,Germany
+TV,1200,Visa,Katerina,Firenze,Tuscany,Italy
+TV,1200,Mastercard,Mary,Baile Atha Bui,Meath,Ireland
+TV,1200,Visa,Oscar,Chamonix-Mont-Blanc,Rhone-Alpes,France
+TV,1200,Diners,Suejean,Gingins,Vaud,Switzerland
+TV,1200,Amex,ann,Boca Raton                  ,FL,United States
+TV,1200,Visa,Renee,Chaska                      ,MN,United States
+TV,1200,Visa,Catherine,Hghlnds Ranch               ,CO,United States
+TV,1200,Amex,Rhonda,Atlanta                     ,GA,United States
+TV,1200,Amex,alix,Tenafly                     ,NJ,United States
+TV,1200,Visa,Mike,Aberdeen,Scotland,United Kingdom
+TV,1200,Visa,Diane,Djurgarden,Stockholm,Sweden
+TV,1200,Visa,Sigrun,Nashville                   ,TN,United States
+TV,1200,Visa,Dania,Munich,Bayern,Germany
+Laptop,3600,Mastercard,Kelsi,Utrecht,Utrecht,Netherlands
+TV,1200,Visa,Maria,Boyceville                  ,WI,United States
+TV,1200,Visa,Bent Erik,Basauri,Pais Vasco,Spain
+TV,1200,Amex,Kirsten,Melbourne,Victoria,Australia
+TV,1200,Visa,Dickson,Kemerburgaz,Istanbul,Turkey
+TV,1200,Diners,Howard,Worcester,England,United Kingdom
+TV,1200,Visa,Dana,Thurles,Tipperary,Ireland
+TV,1200,Mastercard,Nola,Den Haag,Zuid-Holland,Netherlands
+TV,1200,Visa,Elizabeth,Cos Cob                     ,CT,United States
+Laptop,3600,Visa,minjeong,Bern,Bern,Switzerland
+TV,1200,Visa,Matt,Leicester,England,United Kingdom
+TV,1200,Visa,Vanessa,Cornwall,Ontario,Canada
+Laptop,3600,Visa,Charlotte,Sterling                    ,VA,United States
+TV,1200,Visa,Rowena,Cork,Cork,Ireland
+TV,1200,Visa,Catherine,Mount Forest,Ontario,Canada
+TV,1200,Mastercard,Sarah,Ridgefield                  ,CT,United States
+TV,1200,Visa,sorcha,Porto Alegre,Rio Grande do Sul,Brazil
+TV,1200,Visa,sorcha,Cartierville,Quebec,Canada
+TV,1200,Mastercard,Mary,Stuttgart,Baden-Wurttemberg,Germany
+TV,1200,Visa,Ronja,Manhattan                   ,NY,United States
+TV,1200,Visa,Nicola ,Sneem,Kerry,Ireland
+TV,1200,Amex,BURCAK,Alpharetta                  ,GA,United States
+TV,1200,Visa,isabelle,Sainte-Therese-de-Blainville,Quebec,Canada
+TV,1200,Mastercard,christy,Germantown                  ,TN,United States
+TV,1200,Visa,Lilly,Castleknock,Dublin,Ireland
+TV,1200,Diners,Mandy,Hono                        ,HI,United States
+TV,1200,Mastercard,Elena,New Rochelle                ,NY,United States
+TV,1200,Visa,Lolarae,Calgary,Alberta,Canada
+TV,1200,Mastercard,Lisa,South Waterford             ,ME,United States
+TV,1200,Mastercard,Nita and Trebor,Washington Township         ,OH,United States
+TV,1200,Visa,Jenevieve,Guelph,Ontario,Canada
+Laptop,3600,Mastercard,Piret,Bunbury,Western Australia,Australia
+TV,1200,Mastercard,Damian,Mettlach,Saarland,Germany
+TV,1200,Mastercard,Lusell,Oberwil,Basel-Country,Switzerland
+TV,1200,Visa,Costanza,Beykoz,Istanbul,Turkey
+TV,1200,Visa,Vanessa,Arc-et-Senans,Franche-Comte,France
+TV,1200,Diners,Evelyn,Grossbodungen,Thuringia,Germany
+TV,1200,Amex,Nicola,Bruxelles,Brussels (Bruxelles),Belgium
+TV,1200,Visa,Simone,Kilcornan,Limerick,Ireland
+TV,1200,Mastercard,Elisabeth,Wilmington                  ,NC,United States
+TV,1200,Visa,Kasey,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France
+Laptop,3600,Amex,Olympe,Lidingo,Stockholm,Sweden
+TV,1200,Visa,James,Edmonton,Alberta,Canada
+TV,1200,Visa,Alyssa,Antibes,Provence-Alpes-Cote d'Azur,France
+TV,1200,Visa,Reto,Seattle                     ,WA,United States
+TV,1200,Amex,Joelle,Rowayton                    ,CT,United States
+TV,1200,Mastercard,Nicole,Simcoe,Ontario,Canada
+TV,1200,Mastercard,Alexandria,Lebanon                     ,PA,United States
+TV,1200,Mastercard,Elisabeth,Birkdale,Queensland,Australia
+TV,1200,Visa,Ann,Brisbane,Queensland,Australia
+TV,1200,Visa,Olga,Strasbourg,Alsace,France
+TV,1200,Visa,Courtney,Suchdol,Prague,Czech Republic
+TV,1200,Visa,stacy,Stuttgart,Baden-Wurttemberg,Germany
+Laptop,3600,Amex,Monica,Villanova                   ,PA,United States
+Laptop,3600,Visa,Michael,Norrkoping,Ostergotland,Sweden
+TV,1200,Visa,Katrin,Zumikon,Zurich,Switzerland
+Laptop,3600,Mastercard,Louise,Balgach,St Gallen,Switzerland
+TV,1200,Amex,Alfredo A,Las Vegas                   ,NV,United States
+Laptop,3600,Visa,Kerry,Prague,Central Bohemia,Czech Republic
+TV,1200,Visa,Saeko ,Warwick                     ,NY,United States
+Laptop,3600,Visa,VIOLETA,Silver Spring               ,MD,United States
+TV,1200,Visa,Antje,Sacramento                  ,CA,United States
+TV,1200,Visa,janet,Blarney,Cork,Ireland
+TV,1200,Visa,claire ,Ballyneety,Limerick,Ireland
+TV,1200,Mastercard,Nathalie,Haymarket                   ,VA,United States
+TV,1200,Mastercard,Daria,George Town, ,Cayman Isls
+TV,1200,Visa,Judith L.,Scottsdale                  ,AZ,United States
+TV,1200,Visa,Audinet,Cambridge                   ,MA,United States
+TV,1200,Visa,William,Chalfont Saint Peter,England,United Kingdom
+TV,1200,Diners,Tatjana and Martin,Birmingham,England,United Kingdom
+TV,1200,Mastercard,Scott,Den Haag,Zuid-Holland,Netherlands
+Mobile,7500,Mastercard,Brona,Den Haag,Zuid-Holland,Netherlands
+TV,1200,Mastercard,Andree,Newmarket,Cork,Ireland
+TV,1200,Visa,Aziz,Irpin',Kiev,Ukraine
+TV,1200,Visa,Fernando,Grosseto,Tuscany,Italy
+TV,1200,Visa,Jo,Pembroke Pines              ,FL,United States
+TV,1200,Visa,Joern,Waterford,Ontario,Canada
+Laptop,3600,Visa,Melissa,Carouge,Geneve,Switzerland
+TV,1200,Visa,Melissa,Chester                     ,CT,United States
+TV,1200,Mastercard,isabela,Reston                      ,VA,United States
+TV,1200,Visa,Nacole,Milan,Lombardy,Italy
+TV,1200,Diners,Jennifer,Vancouver,British Columbia,Canada
+TV,1200,Diners,Mary,Alpharetta                  ,GA,United States
+TV,1200,Visa,Lisa,Ringgold                    ,GA,United States
+TV,1200,Diners,Debora ,Wall                        ,NJ,United States
+Laptop,3600,Mastercard,Karoline ,Powell River,British Columbia,Canada
+Laptop,3600,Mastercard,Jo ,Huntington Beach            ,CA,United States
+TV,1200,Amex,Kristen,Los Gatos                   ,CA,United States
+Laptop,3600,Visa,Astrid,Oslo,Oslo,Norway
+TV,1200,Mastercard,Malinda,Oxford,England,United Kingdom
+TV,1200,Amex,Sylvia,Alexandria                  ,VA,United States
+TV,1200,Visa,Jupiterlina Elika,Rome,Lazio,Italy
+TV,1200,Visa,Aniko,Random Lake                 ,WI,United States
+TV,1200,Mastercard,Petra,San Francisco               ,CA,United States
+TV,1200,Mastercard,Heather,Baluan,General Santos,Philippines
+TV,1200,Mastercard,Kim,Brussels,Brussels (Bruxelles),Belgium
+TV,1200,Amex,Ruby,Bedford Corners             ,NY,United States
+TV,1200,Visa,Novy ,Istanbul,Istanbul,Turkey
+Laptop,3600,Visa,Stephanie,Hilversum,Noord-Holland,Netherlands
+TV,1200,Mastercard,Tammy,Milford                     ,ME,United States
+TV,1200,Visa,Alessandra,Vancouver,British Columbia,Canada
+TV,1200,Mastercard,Cathy,Kidderminster,England,United Kingdom
+Laptop,3600,Visa,Scott,Lausanne,Vaud,Switzerland
+TV,1200,Amex,dia,Claygate,England,United Kingdom
+TV,1200,Visa,Lauren,Laasby,Arhus,Denmark
+TV,1200,Visa,Line,Budaors,Pest,Hungary
+TV,1200,Amex,Sean,London,England,United Kingdom
+TV,1200,Diners,Sarah,Santo Domingo City,Distrito Nacional,Dominican Republic
+TV,1200,Visa,Brian,Croton On Hudson            ,NY,United States
+TV,1200,Mastercard,Lesa,Vespasiano,Minas Gerais,Brazil
+TV,1200,Mastercard,james,Nashville                   ,TN,United States
+TV,1200,Mastercard,loudon,Ottawa,Ontario,Canada
+TV,1200,Mastercard,Allison,Naples                      ,FL,United States
+TV,1200,Mastercard,Surat,Bridgewater                 ,NJ,United States
+Laptop,3600,Mastercard,Judy,Washington                  ,DC,United States
+TV,1200,Diners,brian,Hagen,Lorraine,France
+TV,1200,Visa,Rachel,Taicheng,Guangdong,China
+TV,1200,Mastercard,Hilde,Groningen,Groningen,Netherlands
+TV,1200,Mastercard,Tarja,Villars,Vaud,Switzerland
+TV,1200,Visa,Megan,Huntersville                ,NC,United States
+Laptop,3600,Visa,Charmain,Cartersburg                 ,IN,United States
+TV,1200,Visa,Katharina,Flower Mound                ,TX,United States
+TV,1200,Visa,Zaneta ,Rochester                   ,MI,United States
+TV,1200,Visa,Jeannette,Dubai,Dubayy,United Arab Emirates
+Laptop,3600,Visa,Liz,Langnau,Zurich,Switzerland
+Laptop,3600,Mastercard,Christiane,Mission,British Columbia,Canada
+TV,1200,Visa,Cherie,Columbus                    ,OH,United States
+Laptop,3600,Visa,Shiree,Clondalkin,Dublin,Ireland
+TV,1200,Mastercard,Tracey,Harold's Cross,Dublin,Ireland
+TV,1200,Diners,Scott ,Sag Harbor                  ,NY,United States
+TV,1200,Visa,Frances,San Diego                   ,CA,United States
+TV,1200,Mastercard,Beatrice,Wilmington                  ,DE,United States
+Laptop,3600,Visa,Jessica,Toronto,Ontario,Canada
+TV,1200,Amex,Alison,Issaquah                    ,WA,United States
+TV,1200,Visa,elaine,Phuket,Phuket,Thailand
+TV,1200,Visa,Chevonne,Athina,Attiki,Greece
+TV,1200,Visa,danielle,Geneve,Geneve,Switzerland
+TV,1200,Mastercard,Caroline and Jonathan,Chichester,England,United Kingdom
+TV,1200,Visa,manuela,Massagno,Ticino,Switzerland
+TV,1200,Visa,Carole,Cardiff,Wales,United Kingdom
+Laptop,3600,Amex,Ghislaine,Ferney-Voltaire,Rhone-Alpes,France
+Laptop,3600,Visa,Christian,Mableton                    ,GA,United States
+TV,1200,Visa,Hollie,San Diego                   ,CA,United States
+TV,1200,Visa,mike,La Louviere,Hainaut,Belgium
+TV,1200,Mastercard,Malahat,Minneapolis                 ,MN,United States
+TV,1200,Amex,Michaela,Mafra,Santa Catarina,Brazil
+TV,1200,Amex,Amy,Ashford,England,United Kingdom
+TV,1200,Mastercard,Brandi,Edmonton,Alberta,Canada
+TV,1200,Visa,erin,London,England,United Kingdom
+TV,1200,Diners,Tracy,Lucca,Tuscany,Italy
+TV,1200,Visa,Polyxene,Perth,Western Australia,Australia
+Laptop,3600,Mastercard,Jean,Arlington                   ,VA,United States
+TV,1200,Diners,Andrea,Calgary,Alberta,Canada
+TV,1200,Mastercard,Jessica,Chiefland                   ,FL,United States
+TV,1200,Mastercard,David,Stavenger,Rogaland,Norway
+Laptop,3600,Mastercard,Caroline,Begnins,Vaud,Switzerland
+TV,1200,Visa,Riche Lou,Newton                      ,MA,United States
+TV,1200,Mastercard,Chris,Den Haag,Zuid-Holland,Netherlands
+Laptop,3600,Visa,Karen,Berikon,Aargau,Switzerland
+TV,1200,Diners,melanie,Santa Barbaraa,Heredia,Costa Rica
+TV,1200,Visa,beatrice,Churra,Murcia,Spain
+TV,1200,Mastercard,lorna,Castle Rock                 ,CO,United States
+TV,1200,Amex,Tary,Zug,Zug,Switzerland
+TV,1200,Visa,Julie ,Ashford,England,United Kingdom
+TV,1200,Amex,Julie ,Rockville                   ,MD,United States
+TV,1200,Mastercard,Jerome,Madrid,Madrid,Spain
+TV,1200,Visa,Laleh,Aasgaardstrand,Vestfold,Norway
+TV,1200,Visa,Michael,Milano,Lombardy,Italy
+TV,1200,Visa,Kerry,Anieres,Geneve,Switzerland
+Mobile,7500,Mastercard,Anita,Fresno                      ,TX,United States
+TV,1200,Mastercard,Veronique,Fresno                      ,TX,United States
+TV,1200,Visa,Sarah,Warwick,Quebec,Canada
+TV,1200,Diners,Simone,Watford,England,United Kingdom
+TV,1200,Visa,Jackie,Waterford,Waterford,Ireland
+TV,1200,Visa,giovanna,Pruszkow,Mazowieckie,Poland
+TV,1200,Visa,Elizabeth,Hamilton,Hamilton,Bermuda
+Laptop,3600,Visa,Lisa,Ottawa,Ontario,Canada
+TV,1200,Mastercard,Maki,Montgomery                  ,TX,United States
+TV,1200,Amex,Anjan,Tokyo,Tokyo,Japan
+TV,1200,Mastercard,Sarah,Manteno                     ,IL,United States
+TV,1200,Mastercard,Niamh,Benoni,Gauteng,South Africa
+Laptop,3600,Diners,elizabeth r,Winter Haven                ,FL,United States
+TV,1200,Visa,Elaine,Tranby,Buskerud,Norway
+TV,1200,Diners,Elizabeth,Cork,Cork,Ireland
+TV,1200,Visa,Sara,Fort Lauderdale             ,FL,United States
+Laptop,3600,Amex,Tulin,Cranberry Twp               ,PA,United States
+TV,1200,Visa,Kenneth,Arlington                   ,VA,United States
+TV,1200,Mastercard,Fiona,Lake Ronkonkoma,NY,United States
+TV,1200,Visa,Christian,Alexandria                  ,VA,United States
+Mobile,7500,Diners,Michel,Lipari,Sicilia,Italy
+Mobile,7500,Diners,natalie,Lipari,Sicilia,Italy
+TV,1200,Diners,jure,Lipari,Sicilia,Italy
+TV,1200,Amex,Elizabeth ,Bluffton                    ,SC,United States
+TV,1200,Amex,Juliann,Winter Spgs                 ,FL,United States
+TV,1200,Mastercard,Julie ,Chelmsford                  ,MA,United States
+TV,1200,Mastercard,philippa katherine,Cabinteely,Dublin,Ireland
+Laptop,3600,Mastercard,Anthony,Toronto,Ontario,Canada
+TV,1200,Visa,matthew,Cincinnati                  ,OH,United States
+TV,1200,Visa,Steven,Houston                     ,TX,United States
+TV,1200,Amex,Angie,Rodeo                       ,CA,United States
+TV,1200,Mastercard,Lauren,Poughkeepsie                ,NY,United States
+TV,1200,Mastercard,Esther,Cincinnati                  ,OH,United States
+TV,1200,Visa,Elizabeth,North Eastham               ,MA,United States
+Laptop,3600,Visa,marie-louise,Sitka                       ,AK,United States
+Laptop,3600,Mastercard,Tanya,Carcross,Yukon Territory,Canada
+TV,1200,Mastercard,Detlev,Taby,Stockholm,Sweden
+Laptop,3600,Visa,Stephen,Calgary,Alberta,Canada
+TV,1200,Visa,Roza,Alcobendas,Madrid,Spain
+Laptop,3600,Amex,John,Chicago                     ,IL,United States
+TV,1200,Mastercard,paula,Sammamish                   ,WA,United States
+TV,1200,Visa,Kathryn,Waiau Pa,Auckland,New Zealand
+TV,1200,Mastercard,Isabelle,Ewa Beach                   ,HI,United States
+TV,1200,Visa,Maureen,Statesville                 ,NC,United States
+TV,1200,Visa,David,Kapaa                       ,HI,United States
+TV,1200,Diners,caterina,Burbank                     ,CA,United States
+Laptop,3600,Mastercard,Parth,Oegstgeest,Zuid-Holland,Netherlands
+TV,1200,Visa,Alexia,Blackrock,Dublin,Ireland
+Laptop,3600,Mastercard,Gloria Gail ,WalcProduct3ee,Tyrol,Austria
+TV,1200,Visa,Gloria Gail ,Foxrock,Dublin,Ireland
+Laptop,3600,Mastercard,Cheryl,Hilton Head                 ,SC,United States
+Mobile,7500,Visa,Frank and Christelle,Valley Center               ,CA,United States
+Laptop,3600,Mastercard,Triona,Swampscott                  ,MA,United States
+TV,1200,Visa,Allison,Edinburgh,Scotland,United Kingdom
+TV,1200,Diners,Phillip,San Antonio                 ,TX,United States
+TV,1200,Visa,jingyan,Bristol                     ,RI,United States
+Laptop,3600,Diners,clara,Perth,Western Australia,Australia
+TV,1200,Mastercard,Selma,Greenville                  ,TX,United States
+TV,1200,Visa,Doug and Tina,Pls Vrds Est                ,CA,United States
+TV,1200,Visa,Lauren,Hradec Kralove,East Bohemia,Czech Republic
+TV,1200,Visa,Jen,Maidstone,England,United Kingdom
+TV,1200,Visa,gladys,Saint Albans,England,United Kingdom
+TV,1200,Mastercard,Gustavo,Voluntari,Bucuresti,Romania
+TV,1200,Visa,Erica,Nadur, ,Malta
+TV,1200,Diners,Hale,Morrison                    ,CO,United States
+TV,1200,Visa,Rosemary,Cobham,England,United Kingdom
+TV,1200,Visa,Darian,Izmir,Izmir,Turkey
+TV,1200,Mastercard,Kevin,Hollywood                   ,CA,United States
+TV,1200,Visa,Alyssa,Brighton,England,United Kingdom
+TV,1200,Visa,Hale,Hawera,Taranaki,New Zealand
+TV,1200,Mastercard,KELI,Worongary,Queensland,Australia
+TV,1200,Visa,Glen,Atlantida,Guatemala,Guatemala
+TV,1200,Visa,T,El Escorial,Madrid,Spain
+TV,1200,Visa,christal,Morrison                    ,CO,United States
+TV,1200,Mastercard,Alex,Augusta                     ,GA,United States
+Laptop,3600,Mastercard,Anke,Avalon,New South Wales,Australia
+Laptop,3600,Mastercard,TRICIA,Sydney,New South Wales,Australia
+TV,1200,Mastercard,smith,Lahti,Etela-Suomen Laani,Finland
+TV,1200,Visa,Macy,Inner City,Vienna,Austria
+TV,1200,Mastercard,Lesleigh,Baden,Aargau,Switzerland
+Laptop,3600,Diners,esther,Huddersfield,England,United Kingdom
+TV,1200,Visa,Hans-Joerg,Belfast,Northern Ireland,United Kingdom
+Laptop,3600,Visa,Christiane,Black River,Black River,Mauritius
+Mobile,7500,Amex,Pamela,Skaneateles                 ,NY,United States
+TV,1200,Diners,julie,Haverhill,England,United Kingdom
+TV,1200,Visa,Julia ,Madison                     ,WI,United States

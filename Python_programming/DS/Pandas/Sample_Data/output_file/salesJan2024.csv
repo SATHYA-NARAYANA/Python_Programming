@@ -1,0 +1,10 @@
+,Product,Price,Payment_Type,Name,City,State,Country
+0,TV,1200,Mastercard,carolina,Basildon,-1,United Kingdom
+1,TV,1200,Amex,Heidi,Eindhoven,Noord-Brabant,Netherlands
+2,TV,1200,Mastercard,Sean ,Shavano Park                ,TX,United States
+3,TV,1200,Visa,Georgia,-1,ID,-1
+4,TV,1200,Visa,-1,Riverside                   ,NJ,United States
+5,TV,1200,Diners,Leanne,Julianstown,Meath,Ireland
+6,TV,1200,Visa,Janet,Ottawa,Ontario,-1
+7,TV,1200,Diners,barbara,Hyderabad,-1,United Kingdom
+8,Laptop,3600,Visa,Sabine,London,England,United Kingdom
